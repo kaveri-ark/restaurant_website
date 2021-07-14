@@ -1,0 +1,45 @@
+body{
+  background-color: grey;
+}
+
+.container{
+       margin-right: auto;
+       margin-left:auto;
+       width:1024px;
+}
+
+header{
+  
+  height: 118px;
+  text-align: center;
+}
+
+nav{
+  background-color: rgb(196, 39, 130);
+  height: 40px;
+}
+
+main{
+   text-align: center;
+   padding-top: 80px;
+   padding-left: 240px;
+   padding-right: 240px;
+   height: 400px;
+}
+
+footer{
+  background-color: rgb(246, 255, 127);
+  height: 100px;
+}
+
+h1{
+    font-size: 84px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
