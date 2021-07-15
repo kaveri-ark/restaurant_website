@@ -1,4 +1,6 @@
-
+html{
+  height: 100%;
+}
 
 
 body{
@@ -36,10 +38,9 @@ main{
 
 footer{
   background-color: rgba(0,0,0,0.338);
-   font-size: 12px;
-  text-align: center;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+   
 }
 
 h1{
@@ -62,7 +63,14 @@ a{
 
 nav a{
   text-decoration: none;
-  font-size: 12px;
+  font-size: 10px;
   padding-left: 10px;
   padding-right:10px ;
+}
+
+footer p{
+  font-size: 10px;
+  text-align: center;
+  color: white;
+ 
 }
